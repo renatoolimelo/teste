@@ -6,7 +6,7 @@ chmod 775 /opt/yaman/teste/jmeter.jmx
 
 cp /opt/yaman/teste/jmeter.jmx /opt/yaman/scripts
 
-/opt/yaman/jmeter/apache-jmeter-5.5/bin/jmeter -j jmeter_${timestamp_teste}.log -n -t /opt/yaman/scripts/jmeter.jmx -l /opt/yaman/outputs/resultado_${timestamp_teste}.csv
+/opt/yaman/jmeter/apache-jmeter-5.5/bin/jmeter -j /opt/yaman/outputs/jmeter_${timestamp_teste}.log -n -t /opt/yaman/scripts/jmeter.jmx -l /opt/yaman/outputs/resultado_${timestamp_teste}.csv
 
 cp /opt/yaman/outputs/resultado_${timestamp_teste}.csv /opt/yaman/teste
 cp /opt/yaman/outputs/jmeter_${timestamp_teste}.log /opt/yaman/teste
