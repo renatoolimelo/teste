@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,Encoding,SampleCount,ErrorCount,Hostname,IdleTime,Connect
+1703006726095,699,HTTP Request,200,OK,Thread Group 1-1,text,true,,785919,117,2,2,https://www.uol.com.br/,468,UTF-8,1,0,819dd9f570cb,0,415
+1703006726095,749,HTTP Request,200,OK,Thread Group 1-2,text,true,,785919,117,2,2,https://www.uol.com.br/,465,UTF-8,1,0,819dd9f570cb,0,412
+1703006727798,201,HTTP Request,200,OK,Thread Group 1-1,text,true,,785919,117,2,2,https://www.uol.com.br/,34,UTF-8,1,0,819dd9f570cb,0,0
+1703006727845,227,HTTP Request,200,OK,Thread Group 1-2,text,true,,785919,117,2,2,https://www.uol.com.br/,42,UTF-8,1,0,819dd9f570cb,0,0
+1703006729000,246,HTTP Request,200,OK,Thread Group 1-1,text,true,,785919,117,2,2,https://www.uol.com.br/,28,UTF-8,1,0,819dd9f570cb,0,0
+1703006729072,264,HTTP Request,200,OK,Thread Group 1-2,text,true,,785919,117,2,2,https://www.uol.com.br/,59,UTF-8,1,0,819dd9f570cb,0,0
+1703006730247,188,HTTP Request,200,OK,Thread Group 1-1,text,true,,785461,117,2,2,https://www.uol.com.br/,36,UTF-8,1,0,819dd9f570cb,0,0
+1703006730337,205,HTTP Request,200,OK,Thread Group 1-2,text,true,,785461,117,2,2,https://www.uol.com.br/,40,UTF-8,1,0,819dd9f570cb,0,0
+1703006731439,162,HTTP Request,200,OK,Thread Group 1-1,text,true,,785469,117,2,2,https://www.uol.com.br/,30,UTF-8,1,0,819dd9f570cb,0,0
+1703006731544,197,HTTP Request,200,OK,Thread Group 1-2,text,true,,785469,117,1,1,https://www.uol.com.br/,48,UTF-8,1,0,819dd9f570cb,0,0
