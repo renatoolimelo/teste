@@ -9,12 +9,12 @@ fi
 
 NOME_ROBO=$1
 
-#setando timestamp
-timestamp_teste=`date '+%Y-%m-%d_%Hh%Mm%Ss'`
-
 #Baixando ultima atualização do GIT
 cd /opt/yaman/teste
 git pull origin master
+
+#setando timestamp
+timestamp_teste=`date '+%Y-%m-%d_%Hh%Mm%Ss'`
 
 #permissão no robô
 chmod 775 /opt/yaman/teste/jmeter.jmx
