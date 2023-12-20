@@ -7,11 +7,13 @@ then
  exit 1
 fi
 
+NOME_ROBO=$1
+
 #Baixando ultima atualização do GIT
 cd /opt/yaman/teste
 git pull origin master
 
 #Executando JMeter
-/opt/yaman/teste/executa_jmeter.sh
+/opt/yaman/teste/executa_jmeter.sh ${NOME_ROBO=$1}
 
 exit 0
