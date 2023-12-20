@@ -17,8 +17,11 @@ cp /opt/yaman/teste/jmeter.jmx /opt/yaman/scripts
 /opt/yaman/jmeter/apache-jmeter-5.5/bin/jmeter -j /opt/yaman/outputs/jmeter_${timestamp_teste}.log -n -t /opt/yaman/scripts/jmeter.jmx -l /opt/yaman/outputs/resultado_${timestamp_teste}.csv
 
 #copiando o resultado o jmeter.log para a pasta do GIT
-cp /opt/yaman/outputs/resultado_${timestamp_teste}.csv /opt/yaman/teste
-cp /opt/yaman/outputs/jmeter_${timestamp_teste}.log /opt/yaman/teste
+if [ ! -d "/opt/yaman/teste/resultado" ]; then
+	mkdir /opt/yaman/teste/resultado
+fi
+cp /opt/yaman/outputs/resultado_${timestamp_teste}.csv /opt/yaman/teste/resultado
+cp /opt/yaman/outputs/jmeter_${timestamp_teste}.log /opt/yaman/teste/resultado
 
 #indo para o diretorio do GIT
 cd /opt/yaman/teste
@@ -28,7 +31,7 @@ git config --global user.email "renato.olimelo@gmail.com"
 git config --global user.name "Renato Melo"
 
 #Subindo o arquivo para o git hub
-git add resultado_${timestamp_teste}.csv jmeter_${timestamp_teste}.log
+git add ./resultado/resultado_${timestamp_teste}.csv ./resultado/jmeter_${timestamp_teste}.log
 git commit -m "resultado_${timestamp_teste}.csv"
 git push https://${GIT_USER}:${GIT_PASSWORD}@github.com/renatoolimelo/teste.git --all
 
