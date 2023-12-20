@@ -14,6 +14,6 @@ cd /opt/yaman/teste
 git pull origin master
 
 #Executando JMeter
-/opt/yaman/teste/executa_jmeter.sh ${NOME_ROBO=$1}
+/opt/yaman/teste/executa_jmeter.sh ${NOME_ROBO}
 
 exit 0
