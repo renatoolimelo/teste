@@ -25,9 +25,12 @@ chmod 775 /opt/yaman/teste/${NOME_ROBO}.jmx
 
 #copiando o robô e massas para a pasta scripts
 cp /opt/yaman/teste/${NOME_ROBO}.jmx /opt/yaman/scripts
-if [ `ls /opt/yaman/teste/massa_teste | wc -l` -gt 0 ]; then
-	cp /opt/yaman/teste/massa_teste/* /opt/yaman/scripts
+if [ -d "/opt/yaman/teste/massa_teste" ]; then
+	if [ `ls /opt/yaman/teste/massa_teste | wc -l` -gt 0 ]; then
+		cp /opt/yaman/teste/massa_teste/* /opt/yaman/scripts
+	fi
 fi
+
 
 #executando Jmeter
 /opt/yaman/jmeter/apache-jmeter-5.5/bin/jmeter -j /opt/yaman/outputs/jmeter_${TIMESTAMP_TESTE}.log -n -t /opt/yaman/scripts/${NOME_ROBO}.jmx -l /opt/yaman/outputs/${NOME_ROBO}_${TIMESTAMP_TESTE}.csv
