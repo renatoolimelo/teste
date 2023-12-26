@@ -1,0 +1,67 @@
+2023-12-26 09:49:21,463 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2023-12-26 09:49:21,487 INFO o.a.j.JMeter: Loading user properties from: /opt/yaman/jmeter/apache-jmeter-5.5/bin/user.properties
+2023-12-26 09:49:21,487 INFO o.a.j.JMeter: Loading system properties from: /opt/yaman/jmeter/apache-jmeter-5.5/bin/system.properties
+2023-12-26 09:49:21,496 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2023-12-26 09:49:21,496 INFO o.a.j.JMeter: Version 5.5
+2023-12-26 09:49:21,496 INFO o.a.j.JMeter: java.version=11.0.18
+2023-12-26 09:49:21,496 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2023-12-26 09:49:21,496 INFO o.a.j.JMeter: os.name=Linux
+2023-12-26 09:49:21,496 INFO o.a.j.JMeter: os.arch=amd64
+2023-12-26 09:49:21,496 INFO o.a.j.JMeter: os.version=5.15.133.1-microsoft-standard-WSL2
+2023-12-26 09:49:21,496 INFO o.a.j.JMeter: file.encoding=ANSI_X3.4-1968
+2023-12-26 09:49:21,496 INFO o.a.j.JMeter: java.awt.headless=true
+2023-12-26 09:49:21,497 INFO o.a.j.JMeter: Max memory     =536870912
+2023-12-26 09:49:21,497 INFO o.a.j.JMeter: Available Processors =8
+2023-12-26 09:49:21,509 INFO o.a.j.JMeter: Default Locale=English (EN)
+2023-12-26 09:49:21,510 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2023-12-26 09:49:21,510 INFO o.a.j.JMeter: JMeterHome=/opt/yaman/jmeter/apache-jmeter-5.5
+2023-12-26 09:49:21,510 INFO o.a.j.JMeter: user.dir  =/opt/yaman/teste
+2023-12-26 09:49:21,510 INFO o.a.j.JMeter: PWD       =/opt/yaman/teste
+2023-12-26 09:49:21,511 INFO o.a.j.JMeter: IP: 172.17.0.2 Name: 8e6c09796d75 FullName: 8e6c09796d75
+2023-12-26 09:49:21,530 INFO o.a.j.s.FileServer: Default base='/opt/yaman/teste'
+2023-12-26 09:49:21,531 INFO o.a.j.s.FileServer: Set new base='/opt/yaman/scripts'
+2023-12-26 09:49:21,731 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2023-12-26 09:49:21,759 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2023-12-26 09:49:21,763 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2023-12-26 09:49:21,767 INFO o.a.j.s.SaveService: Loading file: /opt/yaman/scripts/terra.jmx
+2023-12-26 09:49:21,814 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-12-26 09:49:21,814 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-12-26 09:49:21,814 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-12-26 09:49:21,814 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-12-26 09:49:21,814 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2023-12-26 09:49:21,815 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2023-12-26 09:49:21,822 INFO o.a.j.JMeter: Creating summariser <summary>
+2023-12-26 09:49:21,842 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-12-26 09:49:21,844 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-12-26 09:49:21,844 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-12-26 09:49:21,877 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2023-12-26 09:49:21,878 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2023-12-26 09:49:22,257 INFO o.a.j.JMeter: Running test (1703594962257)
+2023-12-26 09:49:22,260 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2023-12-26 09:49:22,260 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Thread Group.
+2023-12-26 09:49:22,260 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-12-26 09:49:22,260 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=0 delayedStart=false
+2023-12-26 09:49:22,271 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-12-26 09:49:22,273 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-12-26 09:49:22,281 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-2
+2023-12-26 09:49:22,281 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2023-12-26 09:49:27,325 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = 8e6c09796d75
+2023-12-26 09:49:27,332 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2023-12-26 09:49:27,334 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2023-12-26 09:49:27,334 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2023-12-26 09:49:27,334 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2023-12-26 09:49:27,334 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2023-12-26 09:49:27,523 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2023-12-26 09:49:27,531 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2023-12-26 09:49:27,531 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2023-12-26 09:49:27,594 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2023-12-26 09:49:27,598 INFO o.a.j.u.SSLManager: KeyStore created OK
+2023-12-26 09:49:27,598 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2023-12-26 09:49:33,155 INFO o.a.j.r.Summariser: summary +      3 in 00:00:11 =    0.3/s Avg:   434 Min:   131 Max:   591 Err:     0 (0.00%) Active: 2 Started: 2 Finished: 0
+2023-12-26 09:50:04,158 INFO o.a.j.r.Summariser: summary +     12 in 00:00:31 =    0.4/s Avg:   163 Min:   135 Max:   189 Err:     0 (0.00%) Active: 2 Started: 2 Finished: 0
+2023-12-26 09:50:04,159 INFO o.a.j.r.Summariser: summary =     15 in 00:00:42 =    0.4/s Avg:   217 Min:   131 Max:   591 Err:     0 (0.00%)
+2023-12-26 09:50:19,682 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2023-12-26 09:50:19,687 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-2
+2023-12-26 09:50:19,688 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-12-26 09:50:19,689 INFO o.a.j.r.Summariser: summary +      7 in 00:00:16 =    0.5/s Avg:   171 Min:   158 Max:   193 Err:     0 (0.00%) Active: 0 Started: 2 Finished: 2
+2023-12-26 09:50:19,689 INFO o.a.j.r.Summariser: summary =     22 in 00:00:57 =    0.4/s Avg:   203 Min:   131 Max:   591 Err:     0 (0.00%)
