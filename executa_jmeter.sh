@@ -23,8 +23,9 @@ if [ ! -e "/opt/yaman/teste/${NOME_ROBO}.jmx" ] ; then
 fi
 chmod 775 /opt/yaman/teste/${NOME_ROBO}.jmx
 
-#copiando o robô para a pasta scripts
+#copiando o robô e massas para a pasta scripts
 cp /opt/yaman/teste/${NOME_ROBO}.jmx /opt/yaman/scripts
+cp /opt/yaman/teste/massa_teste/* /opt/yaman/scripts
 
 #executando Jmeter
 /opt/yaman/jmeter/apache-jmeter-5.5/bin/jmeter -j /opt/yaman/outputs/jmeter_${TIMESTAMP_TESTE}.log -n -t /opt/yaman/scripts/${NOME_ROBO}.jmx -l /opt/yaman/outputs/${NOME_ROBO}_${TIMESTAMP_TESTE}.csv
