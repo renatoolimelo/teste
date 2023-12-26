@@ -31,7 +31,6 @@ if [ -d "/opt/yaman/teste/massa_teste" ]; then
 	fi
 fi
 
-
 #executando Jmeter
 /opt/yaman/jmeter/apache-jmeter-5.5/bin/jmeter -j /opt/yaman/outputs/jmeter_${TIMESTAMP_TESTE}.log -n -t /opt/yaman/scripts/${NOME_ROBO}.jmx -l /opt/yaman/outputs/${NOME_ROBO}_${TIMESTAMP_TESTE}.csv
 
