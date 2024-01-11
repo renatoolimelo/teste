@@ -34,7 +34,7 @@ fi
 #executando Jmeter
 /opt/yaman/jmeter/apache-jmeter-5.5/bin/jmeter -j /opt/yaman/outputs/jmeter_${TIMESTAMP_TESTE}.log -n -t /opt/yaman/scripts/${NOME_ROBO}.jmx -l /opt/yaman/outputs/${NOME_ROBO}_${TIMESTAMP_TESTE}.csv
 
-#copiando o resultado o jmeter.log para a pasta do GIT
+#copiando o resultado e o jmeter.log para a pasta do GIT
 if [ ! -d "/opt/yaman/teste/resultado" ]; then
 	mkdir /opt/yaman/teste/resultado
 fi
