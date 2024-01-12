@@ -1,0 +1,361 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,Encoding,SampleCount,ErrorCount,Hostname,IdleTime,Connect
+1705081387118,864,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,2,2,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,864
+1705081390389,1299,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1022576,115,3,3,https://g1.globo.com/,1150,UTF-8,1,0,dc9135b3ecc6,0,1119
+1705081392985,298,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,803250,117,3,3,https://www.uol.com.br/,183,UTF-8,1,0,dc9135b3ecc6,0,147
+1705081393719,324,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,324
+1705081396689,203,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,803187,117,3,3,https://www.uol.com.br/,89,UTF-8,1,0,dc9135b3ecc6,0,62
+1705081399047,429,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,371400,119,3,3,https://www.terra.com.br/,383,utf-8,1,0,dc9135b3ecc6,0,334
+1705081398285,1565,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,371400,119,3,3,https://www.terra.com.br/,1518,utf-8,1,0,dc9135b3ecc6,0,1485
+1705081401895,285,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,20008,120,3,3,https://www.google.com.br/,270,ISO-8859-1,1,0,dc9135b3ecc6,0,147
+1705081404478,192,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5394,117,3,3,https://www.sbt.com.br/,191,ISO-8859-1,1,0,dc9135b3ecc6,0,146
+1705081404852,251,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1022577,115,3,3,https://g1.globo.com/,91,UTF-8,1,0,dc9135b3ecc6,0,65
+1705081407182,106,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5387,117,3,3,https://www.sbt.com.br/,106,ISO-8859-1,1,0,dc9135b3ecc6,0,60
+1705081409672,208,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1022602,115,3,3,https://g1.globo.com/,87,UTF-8,1,0,dc9135b3ecc6,0,63
+1705081410106,107,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5387,117,3,3,https://www.sbt.com.br/,107,ISO-8859-1,1,0,dc9135b3ecc6,0,59
+1705081412291,164,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,371400,119,3,3,https://www.terra.com.br/,89,utf-8,1,0,dc9135b3ecc6,0,57
+1705081414883,202,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,803378,117,3,3,https://www.uol.com.br/,100,UTF-8,1,0,dc9135b3ecc6,0,69
+1705081415216,270,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19949,120,3,3,https://www.google.com.br/,256,ISO-8859-1,1,0,dc9135b3ecc6,0,118
+1705081417457,360,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,360
+1705081420087,255,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,19959,120,3,3,https://www.google.com.br/,242,ISO-8859-1,1,0,dc9135b3ecc6,0,122
+1705081420489,46,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5387,117,3,3,https://www.sbt.com.br/,46,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081422821,133,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,20010,120,3,3,https://www.google.com.br/,131,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081425344,75,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1022602,115,3,3,https://g1.globo.com/,21,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081425538,330,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,330
+1705081427956,438,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,438
+1705081430420,128,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,20015,120,3,3,https://www.google.com.br/,126,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081430872,62,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,803966,117,3,3,https://www.uol.com.br/,25,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081433396,44,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5387,117,3,3,https://www.sbt.com.br/,44,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081435549,80,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,803200,117,3,3,https://www.uol.com.br/,28,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081435935,59,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,371397,119,3,3,https://www.terra.com.br/,33,utf-8,1,0,dc9135b3ecc6,0,0
+1705081438441,82,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1022616,115,3,3,https://g1.globo.com/,24,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081440630,41,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5387,117,3,3,https://www.sbt.com.br/,41,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081440995,133,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19934,120,3,3,https://www.google.com.br/,129,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081443525,91,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,803200,117,3,3,https://www.uol.com.br/,23,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081446129,136,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1022617,115,3,3,https://g1.globo.com/,73,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081445674,1324,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,1324
+1705081448617,64,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,372024,119,3,3,https://www.terra.com.br/,41,utf-8,1,0,dc9135b3ecc6,0,0
+1705081451268,285,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,803378,117,3,3,https://www.uol.com.br/,234,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081452000,80,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,372024,119,3,3,https://www.terra.com.br/,32,utf-8,1,0,dc9135b3ecc6,0,0
+1705081453682,83,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5387,117,3,3,https://www.sbt.com.br/,82,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081456555,380,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,380
+1705081457082,134,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,19981,120,3,3,https://www.google.com.br/,132,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081458766,54,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,372024,119,3,3,https://www.terra.com.br/,35,utf-8,1,0,dc9135b3ecc6,0,0
+1705081461938,138,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19987,120,3,3,https://www.google.com.br/,133,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081462218,68,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1022850,115,3,3,https://g1.globo.com/,19,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081463822,219,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1022864,115,3,3,https://g1.globo.com/,84,UTF-8,1,0,dc9135b3ecc6,0,63
+1705081467287,314,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5393,117,3,3,https://www.sbt.com.br/,314,ISO-8859-1,1,0,dc9135b3ecc6,0,275
+1705081467077,603,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,371940,119,3,3,https://www.terra.com.br/,526,utf-8,1,0,dc9135b3ecc6,0,486
+1705081469042,332,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,332
+1705081472604,189,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,371940,119,3,3,https://www.terra.com.br/,95,utf-8,1,0,dc9135b3ecc6,0,61
+1705081472681,152,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5387,117,3,3,https://www.sbt.com.br/,152,ISO-8859-1,1,0,dc9135b3ecc6,0,112
+1705081474376,261,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,804080,117,3,3,https://www.uol.com.br/,137,UTF-8,1,0,dc9135b3ecc6,0,112
+1705081477834,531,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1022919,115,3,3,https://g1.globo.com/,382,UTF-8,1,0,dc9135b3ecc6,0,356
+1705081477795,1238,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,804088,117,3,3,https://www.uol.com.br/,1125,UTF-8,1,0,dc9135b3ecc6,0,1098
+1705081479638,280,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,20006,120,3,3,https://www.google.com.br/,265,ISO-8859-1,1,0,dc9135b3ecc6,0,122
+1705081483366,77,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,371397,119,3,3,https://www.terra.com.br/,56,utf-8,1,0,dc9135b3ecc6,0,0
+1705081484034,772,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,772
+1705081484919,138,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,371313,119,3,3,https://www.terra.com.br/,86,utf-8,1,0,dc9135b3ecc6,0,54
+1705081488444,263,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,805434,117,3,3,https://www.uol.com.br/,132,UTF-8,1,0,dc9135b3ecc6,0,103
+1705081489807,53,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,371397,119,3,3,https://www.terra.com.br/,30,utf-8,1,0,dc9135b3ecc6,0,0
+1705081490058,127,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19980,120,3,3,https://www.google.com.br/,126,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081493708,580,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,580
+1705081494861,77,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,803540,117,3,3,https://www.uol.com.br/,30,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081495186,64,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,803548,117,3,3,https://www.uol.com.br/,24,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081499292,311,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19978,120,3,3,https://www.google.com.br/,296,ISO-8859-1,1,0,dc9135b3ecc6,0,152
+1705081499939,340,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,340
+1705081500251,245,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5387,117,3,3,https://www.sbt.com.br/,245,ISO-8859-1,1,0,dc9135b3ecc6,0,177
+1705081504604,272,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1022919,115,3,3,https://g1.globo.com/,224,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081505282,565,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,20002,120,3,3,https://www.google.com.br/,238,ISO-8859-1,1,0,dc9135b3ecc6,0,113
+1705081505498,411,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1022919,115,3,3,https://g1.globo.com/,347,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081509877,45,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5393,117,3,3,https://www.sbt.com.br/,45,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081510848,287,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5387,117,3,3,https://www.sbt.com.br/,287,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081510910,648,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,647
+1705081514924,134,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1022909,115,3,3,https://g1.globo.com/,58,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081516559,119,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,371489,119,3,3,https://www.terra.com.br/,35,utf-8,1,0,dc9135b3ecc6,0,0
+1705081516137,591,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1022894,115,3,3,https://g1.globo.com/,403,UTF-8,1,0,dc9135b3ecc6,0,84
+1705081520058,330,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,329
+1705081521680,61,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,806949,117,3,3,https://www.uol.com.br/,21,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081521728,74,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1022894,115,3,3,https://g1.globo.com/,17,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081525389,44,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5387,117,3,3,https://www.sbt.com.br/,37,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081526802,126,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,19998,120,3,3,https://www.google.com.br/,117,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081526742,212,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1022913,115,3,3,https://g1.globo.com/,78,UTF-8,1,0,dc9135b3ecc6,0,59
+1705081530434,76,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,804711,117,3,3,https://www.uol.com.br/,25,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081531930,60,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,804711,117,3,3,https://www.uol.com.br/,24,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081531956,389,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,389
+1705081535513,123,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19990,120,3,3,https://www.google.com.br/,119,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081536990,328,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,328
+1705081537345,134,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19986,120,3,3,https://www.google.com.br/,127,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081540636,579,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,371687,119,3,3,https://www.terra.com.br/,525,utf-8,1,0,dc9135b3ecc6,0,485
+1705081542321,177,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5387,117,3,3,https://www.sbt.com.br/,177,ISO-8859-1,1,0,dc9135b3ecc6,0,116
+1705081542481,390,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5387,117,3,3,https://www.sbt.com.br/,390,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081546218,333,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,333
+1705081547872,349,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1022954,115,3,3,https://g1.globo.com/,274,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081547498,725,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,371687,119,3,3,https://www.terra.com.br/,663,utf-8,1,0,dc9135b3ecc6,0,392
+1705081551552,142,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19919,120,3,3,https://www.google.com.br/,137,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081553225,48,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5394,117,3,3,https://www.sbt.com.br/,48,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081553223,293,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19974,120,3,3,https://www.google.com.br/,279,ISO-8859-1,1,0,dc9135b3ecc6,0,154
+1705081556695,63,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,371771,119,3,3,https://www.terra.com.br/,37,utf-8,1,0,dc9135b3ecc6,0,0
+1705081558274,328,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,328
+1705081558518,168,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,371687,119,3,3,https://www.terra.com.br/,108,utf-8,1,0,dc9135b3ecc6,0,71
+1705081561759,467,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1022940,115,3,3,https://g1.globo.com/,344,UTF-8,1,0,dc9135b3ecc6,0,323
+1705081563602,324,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,371771,119,3,3,https://www.terra.com.br/,283,utf-8,1,0,dc9135b3ecc6,0,0
+1705081563687,755,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5387,117,3,3,https://www.sbt.com.br/,755,ISO-8859-1,1,0,dc9135b3ecc6,0,273
+1705081567229,180,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5393,117,3,3,https://www.sbt.com.br/,180,ISO-8859-1,1,0,dc9135b3ecc6,0,111
+1705081568929,317,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,19982,120,3,3,https://www.google.com.br/,301,ISO-8859-1,1,0,dc9135b3ecc6,0,151
+1705081569443,363,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,363
+1705081572409,238,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,803700,117,3,3,https://www.uol.com.br/,125,UTF-8,1,0,dc9135b3ecc6,0,99
+1705081574247,71,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1022940,115,3,3,https://g1.globo.com/,21,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081574806,203,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,803200,117,3,3,https://www.uol.com.br/,94,UTF-8,1,0,dc9135b3ecc6,0,65
+1705081577648,314,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,314
+1705081579319,539,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,803200,117,3,3,https://www.uol.com.br/,83,UTF-8,1,0,dc9135b3ecc6,0,53
+1705081580010,138,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19974,120,3,3,https://www.google.com.br/,133,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081582963,43,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5387,117,3,3,https://www.sbt.com.br/,43,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081585150,359,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,371488,119,3,3,https://www.terra.com.br/,312,utf-8,1,0,dc9135b3ecc6,0,0
+1705081584859,1483,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1022955,115,3,3,https://g1.globo.com/,920,UTF-8,1,0,dc9135b3ecc6,0,657
+1705081590510,42,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5393,117,3,3,https://www.sbt.com.br/,42,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081591343,45,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5387,117,3,3,https://www.sbt.com.br/,45,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081588007,3510,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19954,120,3,3,https://www.google.com.br/,3465,ISO-8859-1,1,0,dc9135b3ecc6,0,3330
+1705081595554,75,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,803200,117,3,3,https://www.uol.com.br/,25,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081596388,54,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,371488,119,3,3,https://www.terra.com.br/,35,utf-8,1,0,dc9135b3ecc6,0,0
+1705081596518,78,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1022976,115,3,3,https://g1.globo.com/,25,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081600629,1038,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,1038
+1705081601444,378,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,378
+1705081601598,542,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,371404,119,3,3,https://www.terra.com.br/,184,utf-8,1,0,dc9135b3ecc6,0,121
+1705081606671,248,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1022995,115,3,3,https://g1.globo.com/,81,UTF-8,1,0,dc9135b3ecc6,0,60
+1705081606823,100,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,803177,117,3,3,https://www.uol.com.br/,29,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081607141,65,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,803177,117,3,3,https://www.uol.com.br/,23,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081611922,55,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,371488,119,3,3,https://www.terra.com.br/,32,utf-8,1,0,dc9135b3ecc6,0,0
+1705081611924,146,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,20017,120,3,3,https://www.google.com.br/,133,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081612208,58,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,371488,119,3,3,https://www.terra.com.br/,33,utf-8,1,0,dc9135b3ecc6,0,0
+1705081616978,65,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,800361,117,3,3,https://www.uol.com.br/,28,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081617268,195,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,800361,117,3,3,https://www.uol.com.br/,145,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081617071,513,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5394,117,3,3,https://www.sbt.com.br/,513,ISO-8859-1,1,0,dc9135b3ecc6,0,436
+1705081622464,130,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19921,120,3,3,https://www.google.com.br/,123,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081622043,570,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19960,120,3,3,https://www.google.com.br/,545,ISO-8859-1,1,0,dc9135b3ecc6,0,116
+1705081622585,81,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,800361,117,3,3,https://www.uol.com.br/,30,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081627667,339,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1022991,115,3,3,https://g1.globo.com/,234,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081627614,393,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1022995,115,3,3,https://g1.globo.com/,287,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081627598,3165,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5393,117,3,3,https://www.sbt.com.br/,3165,ISO-8859-1,1,0,dc9135b3ecc6,0,3116
+1705081633008,229,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5393,117,3,3,https://www.sbt.com.br/,229,ISO-8859-1,1,0,dc9135b3ecc6,0,156
+1705081633007,285,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,371404,119,3,3,https://www.terra.com.br/,230,utf-8,1,0,dc9135b3ecc6,0,157
+1705081635763,320,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,320
+1705081638293,766,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,766
+1705081638238,821,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,821
+1705081641085,218,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1023090,115,3,3,https://g1.globo.com/,91,UTF-8,1,0,dc9135b3ecc6,0,68
+1705081644062,41,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5387,117,3,3,https://www.sbt.com.br/,41,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081644061,1272,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,19924,120,3,3,https://www.google.com.br/,1254,ISO-8859-1,1,0,dc9135b3ecc6,0,1122
+1705081646304,52,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,371488,119,3,3,https://www.terra.com.br/,33,utf-8,1,0,dc9135b3ecc6,0,0
+1705081649104,138,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19956,120,3,3,https://www.google.com.br/,133,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081650333,318,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,318
+1705081651357,42,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5387,117,3,3,https://www.sbt.com.br/,42,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081654243,316,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,316
+1705081655654,140,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,20041,120,3,3,https://www.google.com.br/,135,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081656400,313,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,313
+1705081659559,149,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,371400,119,3,3,https://www.terra.com.br/,92,utf-8,1,0,dc9135b3ecc6,0,57
+1705081660793,247,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,803164,117,3,3,https://www.uol.com.br/,143,UTF-8,1,0,dc9135b3ecc6,0,111
+1705081661716,90,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1022883,115,3,3,https://g1.globo.com/,20,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081664710,77,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1022884,115,3,3,https://g1.globo.com/,22,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081666042,57,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,371484,119,3,3,https://www.terra.com.br/,32,utf-8,1,0,dc9135b3ecc6,0,0
+1705081666807,360,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,803128,117,3,3,https://www.uol.com.br/,226,UTF-8,1,0,dc9135b3ecc6,0,195
+1705081669788,201,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,803128,117,3,3,https://www.uol.com.br/,86,UTF-8,1,0,dc9135b3ecc6,0,63
+1705081671100,221,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1022884,115,3,3,https://g1.globo.com/,92,UTF-8,1,0,dc9135b3ecc6,0,64
+1705081672168,275,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19961,120,3,3,https://www.google.com.br/,259,ISO-8859-1,1,0,dc9135b3ecc6,0,124
+1705081674990,139,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19952,120,3,3,https://www.google.com.br/,138,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081676321,348,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5392,117,3,3,https://www.sbt.com.br/,347,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081677443,48,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5392,117,3,3,https://www.sbt.com.br/,48,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081680129,212,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1022880,115,3,3,https://g1.globo.com/,85,UTF-8,1,0,dc9135b3ecc6,0,65
+1705081681671,70,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,802248,117,3,3,https://www.uol.com.br/,23,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081682494,467,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,467
+1705081685343,72,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,802077,117,3,3,https://www.uol.com.br/,28,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081686742,134,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,20063,120,3,3,https://www.google.com.br/,133,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081687962,212,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,371361,119,3,3,https://www.terra.com.br/,171,utf-8,1,0,dc9135b3ecc6,0,128
+1705081690415,313,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,312
+1705081691877,314,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,314
+1705081693175,152,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19952,120,3,3,https://www.google.com.br/,121,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081695729,170,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5387,117,3,3,https://www.sbt.com.br/,170,ISO-8859-1,1,0,dc9135b3ecc6,0,128
+1705081697193,82,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1023052,115,3,3,https://g1.globo.com/,25,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081698328,75,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,802098,117,3,3,https://www.uol.com.br/,25,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081700900,52,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,371445,119,3,3,https://www.terra.com.br/,34,utf-8,1,0,dc9135b3ecc6,0,0
+1705081702276,147,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5392,117,3,3,https://www.sbt.com.br/,147,ISO-8859-1,1,0,dc9135b3ecc6,0,104
+1705081703404,273,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1023052,115,3,3,https://g1.globo.com/,142,UTF-8,1,0,dc9135b3ecc6,0,119
+1705081705953,286,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19945,120,3,3,https://www.google.com.br/,272,ISO-8859-1,1,0,dc9135b3ecc6,0,135
+1705081707424,145,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,371361,119,3,3,https://www.terra.com.br/,97,utf-8,1,0,dc9135b3ecc6,0,58
+1705081708678,311,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,311
+1705081711240,89,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1023048,115,3,3,https://g1.globo.com/,29,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081712571,41,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5387,117,3,3,https://www.sbt.com.br/,40,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081713992,76,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,371445,119,3,3,https://www.terra.com.br/,38,utf-8,1,0,dc9135b3ecc6,0,0
+1705081716331,434,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,371445,119,3,3,https://www.terra.com.br/,417,utf-8,1,0,dc9135b3ecc6,0,0
+1705081717612,53,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,371445,119,3,3,https://www.terra.com.br/,31,utf-8,1,0,dc9135b3ecc6,0,0
+1705081719068,471,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5392,117,3,3,https://www.sbt.com.br/,471,ISO-8859-1,1,0,dc9135b3ecc6,0,431
+1705081721767,86,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,802086,117,3,3,https://www.uol.com.br/,53,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081722666,93,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1023093,115,3,3,https://g1.globo.com/,26,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081724540,64,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,802728,117,3,3,https://www.uol.com.br/,24,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081726854,379,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,378
+1705081727759,311,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,311
+1705081729605,362,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1023084,115,3,3,https://g1.globo.com/,303,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081732234,46,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5394,117,3,3,https://www.sbt.com.br/,45,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081733072,295,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,802736,117,3,3,https://www.uol.com.br/,182,UTF-8,1,0,dc9135b3ecc6,0,138
+1705081734968,598,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,20043,120,3,3,https://www.google.com.br/,583,ISO-8859-1,1,0,dc9135b3ecc6,0,116
+1705081737281,151,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19956,120,3,3,https://www.google.com.br/,148,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081738369,285,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,19962,120,3,3,https://www.google.com.br/,240,ISO-8859-1,1,0,dc9135b3ecc6,0,121
+1705081740568,319,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,319
+1705081742432,191,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,802086,117,3,3,https://www.uol.com.br/,89,UTF-8,1,0,dc9135b3ecc6,0,59
+1705081743654,315,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,315
+1705081745890,196,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,802658,117,3,3,https://www.uol.com.br/,89,UTF-8,1,0,dc9135b3ecc6,0,59
+1705081747624,312,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,312
+1705081748970,687,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,19900,120,3,3,https://www.google.com.br/,681,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081751087,118,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,20026,120,3,3,https://www.google.com.br/,112,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081752936,244,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,371928,119,3,3,https://www.terra.com.br/,191,utf-8,1,0,dc9135b3ecc6,0,145
+1705081754657,62,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,802956,117,3,3,https://www.uol.com.br/,27,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081756205,46,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5392,117,3,3,https://www.sbt.com.br/,39,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081758181,216,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1023080,115,3,3,https://g1.globo.com/,86,UTF-8,1,0,dc9135b3ecc6,0,57
+1705081759720,355,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5393,117,3,3,https://www.sbt.com.br/,355,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081761252,130,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,371916,119,3,3,https://www.terra.com.br/,77,utf-8,1,0,dc9135b3ecc6,0,47
+1705081763399,585,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5393,117,3,3,https://www.sbt.com.br/,585,ISO-8859-1,1,0,dc9135b3ecc6,0,231
+1705081765076,255,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,372000,119,3,3,https://www.terra.com.br/,235,utf-8,1,0,dc9135b3ecc6,0,0
+1705081766384,225,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1019272,115,3,3,https://g1.globo.com/,91,UTF-8,1,0,dc9135b3ecc6,0,62
+1705081768985,620,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19958,120,3,3,https://www.google.com.br/,605,ISO-8859-1,1,0,dc9135b3ecc6,0,453
+1705081770332,236,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1019272,115,3,3,https://g1.globo.com/,84,UTF-8,1,0,dc9135b3ecc6,0,59
+1705081771610,70,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,802658,117,3,3,https://www.uol.com.br/,21,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081774606,146,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,371413,119,3,3,https://www.terra.com.br/,121,utf-8,1,0,dc9135b3ecc6,0,0
+1705081775570,157,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,371329,119,3,3,https://www.terra.com.br/,84,utf-8,1,0,dc9135b3ecc6,0,53
+1705081776680,54,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,371413,119,3,3,https://www.terra.com.br/,30,utf-8,1,0,dc9135b3ecc6,0,0
+1705081779752,96,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,802595,117,3,3,https://www.uol.com.br/,35,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081780726,80,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1019226,115,3,3,https://g1.globo.com/,21,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081781736,607,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,607
+1705081784850,43,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5394,117,3,3,https://www.sbt.com.br/,43,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081785808,58,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,803387,117,3,3,https://www.uol.com.br/,23,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081787344,140,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5387,117,3,3,https://www.sbt.com.br/,140,ISO-8859-1,1,0,dc9135b3ecc6,0,96
+1705081789895,621,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,620
+1705081790867,125,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,19961,120,3,3,https://www.google.com.br/,121,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081792485,136,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,20021,120,3,3,https://www.google.com.br/,132,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081795516,662,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1019226,115,3,3,https://g1.globo.com/,595,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081795992,250,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5387,117,3,3,https://www.sbt.com.br/,250,ISO-8859-1,1,0,dc9135b3ecc6,0,205
+1705081797623,78,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1019226,115,3,3,https://g1.globo.com/,26,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081801180,37,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5387,117,3,3,https://www.sbt.com.br/,37,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081801243,336,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,336
+1705081802702,250,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19937,120,3,3,https://www.google.com.br/,234,ISO-8859-1,1,0,dc9135b3ecc6,0,101
+1705081806220,274,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,804162,117,3,3,https://www.uol.com.br/,155,UTF-8,1,0,dc9135b3ecc6,0,125
+1705081806581,60,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,372000,119,3,3,https://www.terra.com.br/,39,utf-8,1,0,dc9135b3ecc6,0,0
+1705081807953,51,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,372000,119,3,3,https://www.terra.com.br/,31,utf-8,1,0,dc9135b3ecc6,0,0
+1705081811642,45,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5392,117,3,3,https://www.sbt.com.br/,45,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081811495,328,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,328
+1705081813007,72,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1019220,115,3,3,https://g1.globo.com/,21,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081816688,78,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1019220,115,3,3,https://g1.globo.com/,16,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081816825,503,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,371404,119,3,3,https://www.terra.com.br/,156,utf-8,1,0,dc9135b3ecc6,0,111
+1705081818080,338,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,338
+1705081821766,249,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,20037,120,3,3,https://www.google.com.br/,234,ISO-8859-1,1,0,dc9135b3ecc6,0,108
+1705081822328,435,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,20019,120,3,3,https://www.google.com.br/,430,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081823419,213,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,802086,117,3,3,https://www.uol.com.br/,97,UTF-8,1,0,dc9135b3ecc6,0,68
+1705081827017,197,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,802086,117,3,3,https://www.uol.com.br/,93,UTF-8,1,0,dc9135b3ecc6,0,64
+1705081827765,267,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1019220,115,3,3,https://g1.globo.com/,100,UTF-8,1,0,dc9135b3ecc6,0,72
+1705081828635,41,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5387,117,3,3,https://www.sbt.com.br/,40,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081832213,617,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,617
+1705081833032,341,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,341
+1705081833676,47,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5394,117,3,3,https://www.sbt.com.br/,47,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081837834,224,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1019224,115,3,3,https://g1.globo.com/,87,UTF-8,1,0,dc9135b3ecc6,0,62
+1705081838375,117,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1019220,115,3,3,https://g1.globo.com/,24,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081838724,148,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19979,120,3,3,https://www.google.com.br/,143,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081843061,72,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,802136,117,3,3,https://www.uol.com.br/,30,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081843494,59,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,371488,119,3,3,https://www.terra.com.br/,34,utf-8,1,0,dc9135b3ecc6,0,0
+1705081843874,64,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,802136,117,3,3,https://www.uol.com.br/,26,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081848133,44,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5387,117,3,3,https://www.sbt.com.br/,44,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081848552,78,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,802086,117,3,3,https://www.uol.com.br/,27,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081848939,207,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,371416,119,3,3,https://www.terra.com.br/,158,utf-8,1,0,dc9135b3ecc6,0,119
+1705081853178,416,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,416
+1705081853631,251,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,20038,120,3,3,https://www.google.com.br/,236,ISO-8859-1,1,0,dc9135b3ecc6,0,113
+1705081854147,1382,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,1382
+1705081858596,131,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,19964,120,3,3,https://www.google.com.br/,126,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081858884,467,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5387,117,3,3,https://www.sbt.com.br/,466,ISO-8859-1,1,0,dc9135b3ecc6,0,427
+1705081860532,231,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1019261,115,3,3,https://g1.globo.com/,94,UTF-8,1,0,dc9135b3ecc6,0,72
+1705081863727,995,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,371404,119,3,3,https://www.terra.com.br/,392,utf-8,1,0,dc9135b3ecc6,0,49
+1705081864351,591,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5387,117,3,3,https://www.sbt.com.br/,591,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081865764,69,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,371488,119,3,3,https://www.terra.com.br/,48,utf-8,1,0,dc9135b3ecc6,0,0
+1705081869724,346,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,346
+1705081869944,596,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,802314,117,3,3,https://www.uol.com.br/,502,UTF-8,1,0,dc9135b3ecc6,0,474
+1705081870835,255,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,20001,120,3,3,https://www.google.com.br/,239,ISO-8859-1,1,0,dc9135b3ecc6,0,108
+1705081875071,149,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5393,117,3,3,https://www.sbt.com.br/,149,ISO-8859-1,1,0,dc9135b3ecc6,0,109
+1705081875540,136,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1019276,115,3,3,https://g1.globo.com/,25,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081876091,75,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1019261,115,3,3,https://g1.globo.com/,19,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081880222,643,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1019281,115,3,3,https://g1.globo.com/,582,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081880678,337,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,371404,119,3,3,https://www.terra.com.br/,282,utf-8,1,0,dc9135b3ecc6,0,235
+1705081881168,342,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,342
+1705081885866,64,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,371488,119,3,3,https://www.terra.com.br/,30,utf-8,1,0,dc9135b3ecc6,0,0
+1705081886016,348,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,348
+1705081886510,207,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,802086,117,3,3,https://www.uol.com.br/,98,UTF-8,1,0,dc9135b3ecc6,0,69
+1705081890930,189,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,802086,117,3,3,https://www.uol.com.br/,86,UTF-8,1,0,dc9135b3ecc6,0,57
+1705081891364,142,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19983,120,3,3,https://www.google.com.br/,121,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081891718,157,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5400,117,3,3,https://www.sbt.com.br/,157,ISO-8859-1,1,0,dc9135b3ecc6,0,115
+1705081896506,42,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5393,117,3,3,https://www.sbt.com.br/,42,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081896121,450,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,19913,120,3,3,https://www.google.com.br/,427,ISO-8859-1,1,0,dc9135b3ecc6,0,314
+1705081896876,80,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1019262,115,3,3,https://g1.globo.com/,22,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081901573,138,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,20030,120,3,3,https://www.google.com.br/,134,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081901550,250,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1019277,115,3,3,https://g1.globo.com/,105,UTF-8,1,0,dc9135b3ecc6,0,77
+1705081901958,60,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,372020,119,3,3,https://www.terra.com.br/,42,utf-8,1,0,dc9135b3ecc6,0,0
+1705081906800,67,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,372020,119,3,3,https://www.terra.com.br/,40,utf-8,1,0,dc9135b3ecc6,0,0
+1705081906712,237,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1019318,115,3,3,https://g1.globo.com/,81,UTF-8,1,0,dc9135b3ecc6,0,59
+1705081907018,60,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,802514,117,3,3,https://www.uol.com.br/,21,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081911869,69,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,802514,117,3,3,https://www.uol.com.br/,33,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081911951,40,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5387,117,3,3,https://www.sbt.com.br/,40,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081912080,47,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5387,117,3,3,https://www.sbt.com.br/,47,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081916992,52,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,372020,119,3,3,https://www.terra.com.br/,30,utf-8,1,0,dc9135b3ecc6,0,0
+1705081917128,483,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,20037,120,3,3,https://www.google.com.br/,479,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081916939,706,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,706
+1705081922043,64,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,802086,117,3,3,https://www.uol.com.br/,25,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081922645,248,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,20111,120,3,3,https://www.google.com.br/,231,ISO-8859-1,1,0,dc9135b3ecc6,0,101
+1705081922611,337,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,337
+1705081927109,348,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,348
+1705081927893,59,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,803374,117,3,3,https://www.uol.com.br/,23,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081927949,55,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,803374,117,3,3,https://www.uol.com.br/,21,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081932459,235,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,371404,119,3,3,https://www.terra.com.br/,186,utf-8,1,0,dc9135b3ecc6,0,141
+1705081932953,139,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19934,120,3,3,https://www.google.com.br/,136,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081933005,130,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,371404,119,3,3,https://www.terra.com.br/,86,utf-8,1,0,dc9135b3ecc6,0,55
+1705081937695,347,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,347
+1705081938094,442,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1019309,115,3,3,https://g1.globo.com/,365,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081938136,627,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,627
+1705081943044,113,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1019309,115,3,3,https://g1.globo.com/,24,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081943538,136,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,371404,119,3,3,https://www.terra.com.br/,85,utf-8,1,0,dc9135b3ecc6,0,50
+1705081943765,271,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19995,120,3,3,https://www.google.com.br/,254,ISO-8859-1,1,0,dc9135b3ecc6,0,127
+1705081948157,69,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,802264,117,3,3,https://www.uol.com.br/,33,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081948675,167,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5387,117,3,3,https://www.sbt.com.br/,167,ISO-8859-1,1,0,dc9135b3ecc6,0,119
+1705081949036,40,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5387,117,3,3,https://www.sbt.com.br/,40,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081953228,158,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5400,117,3,3,https://www.sbt.com.br/,158,ISO-8859-1,1,0,dc9135b3ecc6,0,112
+1705081953844,342,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,342
+1705081954078,1401,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1019313,115,3,3,https://g1.globo.com/,475,UTF-8,1,0,dc9135b3ecc6,0,450
+1705081958388,252,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,20033,120,3,3,https://www.google.com.br/,239,ISO-8859-1,1,0,dc9135b3ecc6,0,109
+1705081959187,123,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5392,117,3,3,https://www.sbt.com.br/,123,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081960479,93,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,372384,119,3,3,https://www.terra.com.br/,66,utf-8,1,0,dc9135b3ecc6,0,0
+1705081963642,47,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5394,117,3,3,https://www.sbt.com.br/,47,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081964312,603,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,802256,117,3,3,https://www.uol.com.br/,473,UTF-8,1,0,dc9135b3ecc6,0,448
+1705081965573,165,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19973,120,3,3,https://www.google.com.br/,162,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081968689,350,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,350
+1705081969915,473,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,20008,120,3,3,https://www.google.com.br/,472,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081970738,123,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1019363,115,3,3,https://g1.globo.com/,25,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081974041,234,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,802264,117,3,3,https://www.uol.com.br/,90,UTF-8,1,0,dc9135b3ecc6,0,61
+1705081975390,351,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,351
+1705081975863,369,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,802358,117,3,3,https://www.uol.com.br/,275,UTF-8,1,0,dc9135b3ecc6,0,246
+1705081979276,143,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,19945,120,3,3,https://www.google.com.br/,138,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081980742,219,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1019359,115,3,3,https://g1.globo.com/,76,UTF-8,1,0,dc9135b3ecc6,0,54
+1705081981232,178,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5387,117,3,3,https://www.sbt.com.br/,178,ISO-8859-1,1,0,dc9135b3ecc6,0,130
+1705081984419,59,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,371482,119,3,3,https://www.terra.com.br/,37,utf-8,1,0,dc9135b3ecc6,0,0
+1705081985962,380,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,371482,119,3,3,https://www.terra.com.br/,354,utf-8,1,0,dc9135b3ecc6,0,0
+1705081986410,414,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,414
+1705081989479,222,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1019363,115,3,3,https://g1.globo.com/,90,UTF-8,1,0,dc9135b3ecc6,0,64
+1705081991345,77,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,1019359,115,3,3,https://g1.globo.com/,24,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081991827,1352,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-1,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,1352
+1705081994703,136,1 - GET - Google,200,OK,Thread Group 1-3,text,true,,19930,120,3,3,https://www.google.com.br/,131,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705081996422,337,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-2,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,337
+1705081998179,63,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,802264,117,3,3,https://www.uol.com.br/,26,UTF-8,1,0,dc9135b3ecc6,0,0
+1705081999839,77,5 - GET - sbt,200,OK,Thread Group 1-3,text,true,,5392,117,3,3,https://www.sbt.com.br/,76,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705082001762,350,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5387,117,3,3,https://www.sbt.com.br/,350,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705082003244,218,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,371398,119,3,3,https://www.terra.com.br/,170,utf-8,1,0,dc9135b3ecc6,0,132
+1705082004918,838,7 - GET - erro,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Unsupported or unrecognized SSL message,Thread Group 1-3,text,false,,2805,0,3,3,https://www.r7.com.br/,0,ISO-8859-1,1,1,dc9135b3ecc6,0,838
+1705082007112,252,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19977,120,3,3,https://www.google.com.br/,236,ISO-8859-1,1,0,dc9135b3ecc6,0,102
+1705082008462,43,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5392,117,3,3,https://www.sbt.com.br/,43,ISO-8859-1,1,0,dc9135b3ecc6,0,0
+1705082010755,392,2 - GET - UOL,200,OK,Thread Group 1-3,text,true,,802483,117,3,3,https://www.uol.com.br/,345,UTF-8,1,0,dc9135b3ecc6,0,0
+1705082012366,152,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,372296,119,3,3,https://www.terra.com.br/,92,utf-8,1,0,dc9135b3ecc6,0,53
+1705082013507,251,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,20052,120,3,3,https://www.google.com.br/,236,ISO-8859-1,1,0,dc9135b3ecc6,0,105
+1705082016150,148,3 - GET - Terra,200,OK,Thread Group 1-3,text,true,,372296,119,3,3,https://www.terra.com.br/,96,utf-8,1,0,dc9135b3ecc6,0,66
+1705082017518,71,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,802483,117,3,3,https://www.uol.com.br/,30,UTF-8,1,0,dc9135b3ecc6,0,0
+1705082018759,252,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,1019358,115,2,2,https://g1.globo.com/,77,UTF-8,1,0,dc9135b3ecc6,0,59
+1705082021299,76,4 - GET - g1,200,OK,Thread Group 1-3,text,true,,1019362,115,1,1,https://g1.globo.com/,22,UTF-8,1,0,dc9135b3ecc6,0,0
