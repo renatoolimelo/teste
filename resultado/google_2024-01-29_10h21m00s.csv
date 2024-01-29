@@ -1,0 +1,377 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,Encoding,SampleCount,ErrorCount,Hostname,IdleTime,Connect
+1706534464128,508,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19921,120,1,1,https://www.google.com.br/,494,ISO-8859-1,1,0,461ee5292b9d,0,367
+1706534464659,285,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835128,117,1,1,https://www.uol.com.br/,163,UTF-8,1,0,461ee5292b9d,0,133
+1706534464946,242,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,350720,119,1,1,https://www.terra.com.br/,192,utf-8,1,0,461ee5292b9d,0,148
+1706534465190,338,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990313,115,1,1,https://g1.globo.com/,181,UTF-8,1,0,461ee5292b9d,0,160
+1706534465530,776,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5481,117,1,1,https://www.sbt.com.br/,776,ISO-8859-1,1,0,461ee5292b9d,0,486
+1706534466308,416,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br: Name or service not known,Thread Group 1-1,text,false,,2496,0,1,1,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,416
+1706534466728,1557,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,1,1,https://www.linkedin.com/,1221,utf-8,1,0,461ee5292b9d,0,949
+1706534468288,105,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,1,1,https://duckduckgo.com/,104,UTF-8,1,0,461ee5292b9d,0,79
+1706534468395,2573,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,1,1,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2573
+1706534470971,139,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19836,120,1,1,https://www.google.com.br/,133,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534471112,85,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,836311,117,1,1,https://www.uol.com.br/,24,UTF-8,1,0,461ee5292b9d,0,0
+1706534471200,66,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,350720,119,1,1,https://www.terra.com.br/,33,utf-8,1,0,461ee5292b9d,0,0
+1706534471267,656,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990313,115,1,1,https://g1.globo.com/,565,UTF-8,1,0,461ee5292b9d,0,0
+1706534471924,660,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5375,117,1,1,https://www.sbt.com.br/,660,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534472587,0,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-1,text,false,,2210,0,1,1,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534472590,1294,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,1,1,https://www.linkedin.com/,819,utf-8,1,0,461ee5292b9d,0,0
+1706534473887,30,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,1,1,https://duckduckgo.com/,30,UTF-8,1,0,461ee5292b9d,0,0
+1706534473920,2141,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,1,1,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2141
+1706534476066,123,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19860,120,1,1,https://www.google.com.br/,122,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534476191,86,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,836311,117,1,1,https://www.uol.com.br/,30,UTF-8,1,0,461ee5292b9d,0,0
+1706534476279,83,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,350738,119,1,1,https://www.terra.com.br/,52,utf-8,1,0,461ee5292b9d,0,0
+1706534476363,101,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990313,115,1,1,https://g1.globo.com/,20,UTF-8,1,0,461ee5292b9d,0,0
+1706534476465,302,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5368,117,1,1,https://www.sbt.com.br/,302,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534476769,210,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br: Name or service not known,Thread Group 1-1,text,false,,2496,0,1,1,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,210
+1706534476981,1127,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,1,1,https://www.linkedin.com/,542,utf-8,1,0,461ee5292b9d,0,0
+1706534478109,23,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,1,1,https://duckduckgo.com/,23,UTF-8,1,0,461ee5292b9d,0,0
+1706534479005,248,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19921,120,2,2,https://www.google.com.br/,230,ISO-8859-1,1,0,461ee5292b9d,0,104
+1706534479257,211,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835128,117,2,2,https://www.uol.com.br/,94,UTF-8,1,0,461ee5292b9d,0,67
+1706534479470,140,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,350702,119,2,2,https://www.terra.com.br/,82,utf-8,1,0,461ee5292b9d,0,56
+1706534479613,301,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990308,115,2,2,https://g1.globo.com/,85,UTF-8,1,0,461ee5292b9d,0,64
+1706534478134,2330,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2330
+1706534480466,124,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19893,120,2,2,https://www.google.com.br/,123,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534480591,80,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835128,117,2,2,https://www.uol.com.br/,28,UTF-8,1,0,461ee5292b9d,0,0
+1706534480672,56,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,350738,119,2,2,https://www.terra.com.br/,28,utf-8,1,0,461ee5292b9d,0,0
+1706534480730,100,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990313,115,2,2,https://g1.globo.com/,24,UTF-8,1,0,461ee5292b9d,0,0
+1706534479916,957,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5486,117,2,2,https://www.sbt.com.br/,956,ISO-8859-1,1,0,461ee5292b9d,0,664
+1706534480876,0,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-2,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534480832,279,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5368,117,2,2,https://www.sbt.com.br/,279,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534481113,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-1,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534480879,821,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,133930,119,2,2,https://www.linkedin.com/,371,utf-8,1,0,461ee5292b9d,0,97
+1706534481704,150,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,150,UTF-8,1,0,461ee5292b9d,0,115
+1706534481114,927,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,352,utf-8,1,0,461ee5292b9d,0,0
+1706534482043,302,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,302,UTF-8,1,0,461ee5292b9d,0,0
+1706534482347,2446,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2446
+1706534484794,123,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19886,120,2,2,https://www.google.com.br/,123,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534484918,81,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835128,117,2,2,https://www.uol.com.br/,24,UTF-8,1,0,461ee5292b9d,0,0
+1706534485000,83,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,350738,119,2,2,https://www.terra.com.br/,33,utf-8,1,0,461ee5292b9d,0,0
+1706534485084,97,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990313,115,2,2,https://g1.globo.com/,20,UTF-8,1,0,461ee5292b9d,0,0
+1706534485182,277,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5368,117,2,2,https://www.sbt.com.br/,277,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534485460,0,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-1,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534481858,3657,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,3657
+1706534485517,122,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19877,120,2,2,https://www.google.com.br/,122,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534485641,75,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835128,117,2,2,https://www.uol.com.br/,24,UTF-8,1,0,461ee5292b9d,0,0
+1706534485717,52,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,350738,119,2,2,https://www.terra.com.br/,29,utf-8,1,0,461ee5292b9d,0,0
+1706534485770,119,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990308,115,2,2,https://g1.globo.com/,21,UTF-8,1,0,461ee5292b9d,0,0
+1706534485890,285,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5368,117,2,2,https://www.sbt.com.br/,280,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534486176,0,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-2,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534485461,765,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,285,utf-8,1,0,461ee5292b9d,0,0
+1706534486227,25,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,25,UTF-8,1,0,461ee5292b9d,0,0
+1706534486177,771,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,133930,119,2,2,https://www.linkedin.com/,301,utf-8,1,0,461ee5292b9d,0,0
+1706534486949,98,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,98,UTF-8,1,0,461ee5292b9d,0,0
+1706534487049,2130,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2130
+1706534489180,130,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19910,120,2,2,https://www.google.com.br/,126,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534489313,71,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835178,117,2,2,https://www.uol.com.br/,22,UTF-8,1,0,461ee5292b9d,0,0
+1706534489385,49,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,350738,119,2,2,https://www.terra.com.br/,28,utf-8,1,0,461ee5292b9d,0,0
+1706534489435,106,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990308,115,2,2,https://g1.globo.com/,21,UTF-8,1,0,461ee5292b9d,0,0
+1706534489543,284,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5380,117,2,2,https://www.sbt.com.br/,284,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534486253,3608,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,3608
+1706534489828,97,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br: Name or service not known,Thread Group 1-2,text,false,,2496,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,97
+1706534489864,128,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19862,120,2,2,https://www.google.com.br/,122,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534489994,81,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835178,117,2,2,https://www.uol.com.br/,24,UTF-8,1,0,461ee5292b9d,0,0
+1706534490078,61,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,350738,119,2,2,https://www.terra.com.br/,27,utf-8,1,0,461ee5292b9d,0,0
+1706534490140,117,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990313,115,2,2,https://g1.globo.com/,20,UTF-8,1,0,461ee5292b9d,0,0
+1706534489926,589,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,133930,119,2,2,https://www.linkedin.com/,258,utf-8,1,0,461ee5292b9d,0,0
+1706534490259,276,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5368,117,2,2,https://www.sbt.com.br/,276,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534490536,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-1,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,1
+1706534490517,26,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,25,UTF-8,1,0,461ee5292b9d,0,0
+1706534490537,771,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,298,utf-8,1,0,461ee5292b9d,0,0
+1706534491311,24,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,24,UTF-8,1,0,461ee5292b9d,0,0
+1706534490544,2193,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2193
+1706534492740,128,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19910,120,2,2,https://www.google.com.br/,121,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534492870,82,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835178,117,2,2,https://www.uol.com.br/,34,UTF-8,1,0,461ee5292b9d,0,0
+1706534492953,52,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,350738,119,2,2,https://www.terra.com.br/,29,utf-8,1,0,461ee5292b9d,0,0
+1706534493006,99,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990469,115,2,2,https://g1.globo.com/,19,UTF-8,1,0,461ee5292b9d,0,0
+1706534493106,279,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5375,117,2,2,https://www.sbt.com.br/,279,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534493386,0,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-2,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534491336,2451,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2451
+1706534493788,118,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19853,120,2,2,https://www.google.com.br/,116,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534493387,590,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,133930,119,2,2,https://www.linkedin.com/,252,utf-8,1,0,461ee5292b9d,0,0
+1706534493910,83,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835178,117,2,2,https://www.uol.com.br/,22,UTF-8,1,0,461ee5292b9d,0,0
+1706534493978,29,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,29,UTF-8,1,0,461ee5292b9d,0,0
+1706534493994,56,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,350738,119,2,2,https://www.terra.com.br/,27,utf-8,1,0,461ee5292b9d,0,0
+1706534494051,92,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990313,115,2,2,https://g1.globo.com/,22,UTF-8,1,0,461ee5292b9d,0,0
+1706534494144,282,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5368,117,2,2,https://www.sbt.com.br/,282,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534494427,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-1,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,1
+1706534494428,784,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,311,utf-8,1,0,461ee5292b9d,0,0
+1706534495215,27,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,27,UTF-8,1,0,461ee5292b9d,0,0
+1706534494008,2138,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2138
+1706534496148,130,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19814,120,2,2,https://www.google.com.br/,122,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534496280,158,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835178,117,2,2,https://www.uol.com.br/,44,UTF-8,1,0,461ee5292b9d,0,0
+1706534496442,58,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,350738,119,2,2,https://www.terra.com.br/,27,utf-8,1,0,461ee5292b9d,0,0
+1706534496501,110,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990469,115,2,2,https://g1.globo.com/,24,UTF-8,1,0,461ee5292b9d,0,0
+1706534496612,1248,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5368,117,2,2,https://www.sbt.com.br/,1248,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534497861,0,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-2,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534497862,930,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,133930,119,2,2,https://www.linkedin.com/,358,utf-8,1,0,461ee5292b9d,0,0
+1706534498795,32,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,31,UTF-8,1,0,461ee5292b9d,0,0
+1706534498829,2178,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2177
+1706534501011,126,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19889,120,2,2,https://www.google.com.br/,124,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534501141,120,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835415,117,2,2,https://www.uol.com.br/,25,UTF-8,1,0,461ee5292b9d,0,0
+1706534501263,56,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,350738,119,2,2,https://www.terra.com.br/,26,utf-8,1,0,461ee5292b9d,0,0
+1706534501320,139,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990469,115,2,2,https://g1.globo.com/,20,UTF-8,1,0,461ee5292b9d,0,0
+1706534501460,283,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5368,117,2,2,https://www.sbt.com.br/,282,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534501744,350,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br: Name or service not known,Thread Group 1-2,text,false,,2496,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,350
+1706534502095,796,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,133930,119,2,2,https://www.linkedin.com/,463,utf-8,1,0,461ee5292b9d,0,0
+1706534502892,33,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,33,UTF-8,1,0,461ee5292b9d,0,0
+1706534495243,8227,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,8227
+1706534503470,122,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19899,120,2,2,https://www.google.com.br/,115,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534503593,73,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835415,117,2,2,https://www.uol.com.br/,21,UTF-8,1,0,461ee5292b9d,0,0
+1706534503667,48,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,350738,119,2,2,https://www.terra.com.br/,30,utf-8,1,0,461ee5292b9d,0,0
+1706534503715,98,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990474,115,2,2,https://g1.globo.com/,21,UTF-8,1,0,461ee5292b9d,0,0
+1706534502926,2628,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2628
+1706534503815,1891,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5375,117,2,2,https://www.sbt.com.br/,1891,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534505707,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-1,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,1
+1706534505555,570,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19894,120,2,2,https://www.google.com.br/,566,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534506127,94,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835415,117,2,2,https://www.uol.com.br/,23,UTF-8,1,0,461ee5292b9d,0,0
+1706534506222,77,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,350738,119,2,2,https://www.terra.com.br/,38,utf-8,1,0,461ee5292b9d,0,0
+1706534506300,120,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990469,115,2,2,https://g1.globo.com/,19,UTF-8,1,0,461ee5292b9d,0,0
+1706534505709,776,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,299,utf-8,1,0,461ee5292b9d,0,0
+1706534506487,27,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,26,UTF-8,1,0,461ee5292b9d,0,0
+1706534506422,285,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5368,117,2,2,https://www.sbt.com.br/,284,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534506707,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-2,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,1
+1706534506709,769,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,134198,119,2,2,https://www.linkedin.com/,294,utf-8,1,0,461ee5292b9d,0,0
+1706534507480,65,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,65,UTF-8,1,0,461ee5292b9d,0,0
+1706534506515,2405,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2405
+1706534508922,118,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19888,120,2,2,https://www.google.com.br/,117,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534509044,140,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835387,117,2,2,https://www.uol.com.br/,34,UTF-8,1,0,461ee5292b9d,0,0
+1706534509186,74,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,350738,119,2,2,https://www.terra.com.br/,33,utf-8,1,0,461ee5292b9d,0,0
+1706534509261,114,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990488,115,2,2,https://g1.globo.com/,23,UTF-8,1,0,461ee5292b9d,0,0
+1706534509376,530,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5368,117,2,2,https://www.sbt.com.br/,530,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534509907,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-1,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534507546,2634,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2633
+1706534510183,128,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19909,120,2,2,https://www.google.com.br/,123,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534510314,94,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835387,117,2,2,https://www.uol.com.br/,20,UTF-8,1,0,461ee5292b9d,0,0
+1706534510410,59,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,350738,119,2,2,https://www.terra.com.br/,27,utf-8,1,0,461ee5292b9d,0,0
+1706534510469,114,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990483,115,2,2,https://g1.globo.com/,20,UTF-8,1,0,461ee5292b9d,0,0
+1706534509908,796,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,319,utf-8,1,0,461ee5292b9d,0,0
+1706534510705,24,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,24,UTF-8,1,0,461ee5292b9d,0,0
+1706534510584,287,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5380,117,2,2,https://www.sbt.com.br/,287,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534510872,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-2,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,1
+1706534510874,856,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,133930,119,2,2,https://www.linkedin.com/,383,utf-8,1,0,461ee5292b9d,0,0
+1706534511731,337,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,337,UTF-8,1,0,461ee5292b9d,0,0
+1706534510730,2721,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2721
+1706534513454,129,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19868,120,2,2,https://www.google.com.br/,122,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534513585,110,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835387,117,2,2,https://www.uol.com.br/,25,UTF-8,1,0,461ee5292b9d,0,0
+1706534513696,71,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,350738,119,2,2,https://www.terra.com.br/,32,utf-8,1,0,461ee5292b9d,0,0
+1706534513767,427,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990488,115,2,2,https://g1.globo.com/,351,UTF-8,1,0,461ee5292b9d,0,0
+1706534514195,280,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5368,117,2,2,https://www.sbt.com.br/,279,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534514475,78,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br: Name or service not known,Thread Group 1-1,text,false,,2496,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,78
+1706534514554,781,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,305,utf-8,1,0,461ee5292b9d,0,0
+1706534515336,26,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,26,UTF-8,1,0,461ee5292b9d,0,0
+1706534512069,4120,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,4120
+1706534516192,132,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19913,120,2,2,https://www.google.com.br/,128,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534516326,99,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835387,117,2,2,https://www.uol.com.br/,22,UTF-8,1,0,461ee5292b9d,0,0
+1706534516427,73,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,350738,119,2,2,https://www.terra.com.br/,35,utf-8,1,0,461ee5292b9d,0,0
+1706534516501,113,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990483,115,2,2,https://g1.globo.com/,23,UTF-8,1,0,461ee5292b9d,0,0
+1706534516615,311,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5375,117,2,2,https://www.sbt.com.br/,311,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534516927,0,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-2,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534515363,2434,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2434
+1706534516928,881,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,134198,119,2,2,https://www.linkedin.com/,551,utf-8,1,0,461ee5292b9d,0,0
+1706534517811,24,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,24,UTF-8,1,0,461ee5292b9d,0,0
+1706534517798,128,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19907,120,2,2,https://www.google.com.br/,125,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534517929,84,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835387,117,2,2,https://www.uol.com.br/,26,UTF-8,1,0,461ee5292b9d,0,0
+1706534518015,62,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,350738,119,2,2,https://www.terra.com.br/,34,utf-8,1,0,461ee5292b9d,0,0
+1706534518079,96,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990488,115,2,2,https://g1.globo.com/,25,UTF-8,1,0,461ee5292b9d,0,0
+1706534518176,280,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5368,117,2,2,https://www.sbt.com.br/,280,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534518457,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-1,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,1
+1706534518460,845,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,367,utf-8,1,0,461ee5292b9d,0,0
+1706534519307,22,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,22,UTF-8,1,0,461ee5292b9d,0,0
+1706534517837,2150,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2149
+1706534519988,132,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19867,120,2,2,https://www.google.com.br/,120,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534520130,83,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835178,117,2,2,https://www.uol.com.br/,24,UTF-8,1,0,461ee5292b9d,0,0
+1706534520214,96,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,350738,119,2,2,https://www.terra.com.br/,40,utf-8,1,0,461ee5292b9d,0,0
+1706534520311,151,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990483,115,2,2,https://g1.globo.com/,21,UTF-8,1,0,461ee5292b9d,0,0
+1706534520464,276,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5368,117,2,2,https://www.sbt.com.br/,276,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534520741,0,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-2,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534519330,2136,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2136
+1706534520742,777,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,133930,119,2,2,https://www.linkedin.com/,303,utf-8,1,0,461ee5292b9d,0,0
+1706534521520,24,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,23,UTF-8,1,0,461ee5292b9d,0,0
+1706534521469,128,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19934,120,2,2,https://www.google.com.br/,126,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534521598,84,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835178,117,2,2,https://www.uol.com.br/,28,UTF-8,1,0,461ee5292b9d,0,0
+1706534521683,62,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,350738,119,2,2,https://www.terra.com.br/,27,utf-8,1,0,461ee5292b9d,0,0
+1706534521746,116,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990488,115,2,2,https://g1.globo.com/,22,UTF-8,1,0,461ee5292b9d,0,0
+1706534521867,304,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5368,117,2,2,https://www.sbt.com.br/,304,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534522172,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-1,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,1
+1706534522174,913,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,438,utf-8,1,0,461ee5292b9d,0,0
+1706534523089,194,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,194,UTF-8,1,0,461ee5292b9d,0,0
+1706534521544,2445,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2445
+1706534523989,119,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19866,120,2,2,https://www.google.com.br/,118,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534524109,69,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835178,117,2,2,https://www.uol.com.br/,20,UTF-8,1,0,461ee5292b9d,0,0
+1706534524179,64,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,350738,119,2,2,https://www.terra.com.br/,39,utf-8,1,0,461ee5292b9d,0,0
+1706534524246,124,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990274,115,2,2,https://g1.globo.com/,21,UTF-8,1,0,461ee5292b9d,0,0
+1706534524371,284,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5380,117,2,2,https://www.sbt.com.br/,284,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534524657,103,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br: Name or service not known,Thread Group 1-2,text,false,,2496,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,103
+1706534523284,2160,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2158
+1706534524761,768,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,133930,119,2,2,https://www.linkedin.com/,299,utf-8,1,0,461ee5292b9d,0,0
+1706534525530,29,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,29,UTF-8,1,0,461ee5292b9d,0,0
+1706534525446,260,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,20320,120,2,2,https://www.google.com.br/,247,ISO-8859-1,1,0,461ee5292b9d,0,124
+1706534525708,258,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835178,117,2,2,https://www.uol.com.br/,139,UTF-8,1,0,461ee5292b9d,0,110
+1706534525967,198,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,350792,119,2,2,https://www.terra.com.br/,153,utf-8,1,0,461ee5292b9d,0,118
+1706534526166,241,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990483,115,2,2,https://g1.globo.com/,101,UTF-8,1,0,461ee5292b9d,0,80
+1706534526408,1000,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5474,117,2,2,https://www.sbt.com.br/,1000,ISO-8859-1,1,0,461ee5292b9d,0,440
+1706534527409,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-1,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534527410,944,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,607,utf-8,1,0,461ee5292b9d,0,381
+1706534528356,1121,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,1121,UTF-8,1,0,461ee5292b9d,0,1092
+1706534525561,9636,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,9636
+1706534535197,131,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19865,120,2,2,https://www.google.com.br/,125,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534535329,70,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835293,117,2,2,https://www.uol.com.br/,23,UTF-8,1,0,461ee5292b9d,0,0
+1706534535400,51,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,350816,119,2,2,https://www.terra.com.br/,26,utf-8,1,0,461ee5292b9d,0,0
+1706534535451,102,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990274,115,2,2,https://g1.globo.com/,19,UTF-8,1,0,461ee5292b9d,0,0
+1706534535554,284,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5380,117,2,2,https://www.sbt.com.br/,284,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534535838,68,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br: Name or service not known,Thread Group 1-2,text,false,,2496,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,68
+1706534535907,565,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,133930,119,2,2,https://www.linkedin.com/,225,utf-8,1,0,461ee5292b9d,0,0
+1706534536473,27,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,27,UTF-8,1,0,461ee5292b9d,0,0
+1706534529478,8282,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,8282
+1706534537761,642,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19962,120,2,2,https://www.google.com.br/,633,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534538404,75,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835128,117,2,2,https://www.uol.com.br/,21,UTF-8,1,0,461ee5292b9d,0,0
+1706534538481,59,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,350816,119,2,2,https://www.terra.com.br/,32,utf-8,1,0,461ee5292b9d,0,0
+1706534538541,106,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990274,115,2,2,https://g1.globo.com/,22,UTF-8,1,0,461ee5292b9d,0,0
+1706534538648,285,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5367,117,2,2,https://www.sbt.com.br/,284,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534538934,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-1,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,1
+1706534538936,794,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,311,utf-8,1,0,461ee5292b9d,0,0
+1706534539731,26,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,26,UTF-8,1,0,461ee5292b9d,0,0
+1706534539758,2390,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2390
+1706534536502,5745,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,5745
+1706534542149,125,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19838,120,2,2,https://www.google.com.br/,124,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534542275,173,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835128,117,2,2,https://www.uol.com.br/,23,UTF-8,1,0,461ee5292b9d,0,0
+1706534542248,560,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19928,120,2,2,https://www.google.com.br/,250,ISO-8859-1,1,0,461ee5292b9d,0,128
+1706534542449,744,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,350816,119,2,2,https://www.terra.com.br/,717,utf-8,1,0,461ee5292b9d,0,0
+1706534542810,513,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835128,117,2,2,https://www.uol.com.br/,348,UTF-8,1,0,461ee5292b9d,0,55
+1706534543194,146,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990274,115,2,2,https://g1.globo.com/,19,UTF-8,1,0,461ee5292b9d,0,0
+1706534543324,154,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,350804,119,2,2,https://www.terra.com.br/,103,utf-8,1,0,461ee5292b9d,0,61
+1706534543342,277,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5368,117,2,2,https://www.sbt.com.br/,277,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534543620,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-1,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534543479,222,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990280,115,2,2,https://g1.globo.com/,76,UTF-8,1,0,461ee5292b9d,0,55
+1706534543622,779,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,305,utf-8,1,0,461ee5292b9d,0,0
+1706534543702,714,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5474,117,2,2,https://www.sbt.com.br/,714,ISO-8859-1,1,0,461ee5292b9d,0,426
+1706534544417,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-2,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,1
+1706534544403,28,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,28,UTF-8,1,0,461ee5292b9d,0,0
+1706534544418,1063,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,133930,119,2,2,https://www.linkedin.com/,476,utf-8,1,0,461ee5292b9d,0,116
+1706534545482,123,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,122,UTF-8,1,0,461ee5292b9d,0,90
+1706534544432,8157,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,8157
+1706534552593,442,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19880,120,2,2,https://www.google.com.br/,436,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534553036,86,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835291,117,2,2,https://www.uol.com.br/,26,UTF-8,1,0,461ee5292b9d,0,0
+1706534553123,390,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,351217,119,2,2,https://www.terra.com.br/,362,utf-8,1,0,461ee5292b9d,0,0
+1706534553514,103,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990277,115,2,2,https://g1.globo.com/,22,UTF-8,1,0,461ee5292b9d,0,0
+1706534553618,280,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5368,117,2,2,https://www.sbt.com.br/,280,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534553899,86,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br: Name or service not known,Thread Group 1-1,text,false,,2496,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,86
+1706534553986,908,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,342,utf-8,1,0,461ee5292b9d,0,0
+1706534554895,27,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,27,UTF-8,1,0,461ee5292b9d,0,0
+1706534545605,9906,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,9906
+1706534555513,129,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19961,120,2,2,https://www.google.com.br/,124,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534555643,76,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835291,117,2,2,https://www.uol.com.br/,22,UTF-8,1,0,461ee5292b9d,0,0
+1706534555720,52,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,351217,119,2,2,https://www.terra.com.br/,26,utf-8,1,0,461ee5292b9d,0,0
+1706534555772,85,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990280,115,2,2,https://g1.globo.com/,25,UTF-8,1,0,461ee5292b9d,0,0
+1706534555858,279,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5380,117,2,2,https://www.sbt.com.br/,279,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534556138,0,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-2,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534556139,820,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,133930,119,2,2,https://www.linkedin.com/,345,utf-8,1,0,461ee5292b9d,0,0
+1706534556960,27,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,27,UTF-8,1,0,461ee5292b9d,0,0
+1706534556988,2221,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2221
+1706534559210,121,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19896,120,2,2,https://www.google.com.br/,116,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534559332,83,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835304,117,2,2,https://www.uol.com.br/,22,UTF-8,1,0,461ee5292b9d,0,0
+1706534559416,58,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,351217,119,2,2,https://www.terra.com.br/,26,utf-8,1,0,461ee5292b9d,0,0
+1706534559475,93,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990280,115,2,2,https://g1.globo.com/,21,UTF-8,1,0,461ee5292b9d,0,0
+1706534559570,280,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5375,117,2,2,https://www.sbt.com.br/,280,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534559852,0,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-2,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534559854,577,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,133930,119,2,2,https://www.linkedin.com/,243,utf-8,1,0,461ee5292b9d,0,0
+1706534560432,25,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,25,UTF-8,1,0,461ee5292b9d,0,0
+1706534560458,2411,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2411
+1706534562870,122,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19888,120,2,2,https://www.google.com.br/,115,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534562993,71,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835304,117,2,2,https://www.uol.com.br/,20,UTF-8,1,0,461ee5292b9d,0,0
+1706534554923,8148,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,8148
+1706534563065,60,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,351217,119,2,2,https://www.terra.com.br/,40,utf-8,1,0,461ee5292b9d,0,0
+1706534563125,356,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990536,115,2,2,https://g1.globo.com/,297,UTF-8,1,0,461ee5292b9d,0,0
+1706534563072,454,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19890,120,2,2,https://www.google.com.br/,445,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534563527,81,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835304,117,2,2,https://www.uol.com.br/,28,UTF-8,1,0,461ee5292b9d,0,0
+1706534563609,50,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,351217,119,2,2,https://www.terra.com.br/,29,utf-8,1,0,461ee5292b9d,0,0
+1706534563660,85,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990532,115,2,2,https://g1.globo.com/,18,UTF-8,1,0,461ee5292b9d,0,0
+1706534563482,277,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5368,117,2,2,https://www.sbt.com.br/,277,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534563759,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-2,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,1
+1706534563746,286,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5375,117,2,2,https://www.sbt.com.br/,286,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534564033,335,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br: Name or service not known,Thread Group 1-1,text,false,,2496,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,335
+1706534563760,908,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,133930,119,2,2,https://www.linkedin.com/,335,utf-8,1,0,461ee5292b9d,0,0
+1706534564669,26,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,26,UTF-8,1,0,461ee5292b9d,0,0
+1706534564368,598,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,260,utf-8,1,0,461ee5292b9d,0,0
+1706534564967,29,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,29,UTF-8,1,0,461ee5292b9d,0,0
+1706534564696,2131,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2131
+1706534566828,116,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19872,120,2,2,https://www.google.com.br/,115,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534566945,73,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835304,117,2,2,https://www.uol.com.br/,25,UTF-8,1,0,461ee5292b9d,0,0
+1706534567019,50,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,351217,119,2,2,https://www.terra.com.br/,24,utf-8,1,0,461ee5292b9d,0,0
+1706534564997,2168,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2167
+1706534567070,107,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990536,115,2,2,https://g1.globo.com/,39,UTF-8,1,0,461ee5292b9d,0,0
+1706534567166,128,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19976,120,2,2,https://www.google.com.br/,121,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534567296,106,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835304,117,2,2,https://www.uol.com.br/,48,UTF-8,1,0,461ee5292b9d,0,0
+1706534567178,282,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5368,117,2,2,https://www.sbt.com.br/,282,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534567462,0,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-2,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534567403,304,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,351217,119,2,2,https://www.terra.com.br/,282,utf-8,1,0,461ee5292b9d,0,0
+1706534567707,84,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990532,115,2,2,https://g1.globo.com/,18,UTF-8,1,0,461ee5292b9d,0,0
+1706534567792,276,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5368,117,2,2,https://www.sbt.com.br/,276,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534568069,0,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-1,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534567463,1103,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,133930,119,2,2,https://www.linkedin.com/,533,utf-8,1,0,461ee5292b9d,0,0
+1706534568567,22,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,22,UTF-8,1,0,461ee5292b9d,0,0
+1706534568070,770,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,290,utf-8,1,0,461ee5292b9d,0,0
+1706534568841,28,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,28,UTF-8,1,0,461ee5292b9d,0,0
+1706534568590,2144,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2144
+1706534570735,129,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19924,120,2,2,https://www.google.com.br/,122,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534570865,74,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835254,117,2,2,https://www.uol.com.br/,23,UTF-8,1,0,461ee5292b9d,0,0
+1706534570940,47,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,351217,119,2,2,https://www.terra.com.br/,29,utf-8,1,0,461ee5292b9d,0,0
+1706534568869,2165,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2165
+1706534570988,85,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990536,115,2,2,https://g1.globo.com/,24,UTF-8,1,0,461ee5292b9d,0,0
+1706534571036,129,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19910,120,2,2,https://www.google.com.br/,127,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534571167,75,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835254,117,2,2,https://www.uol.com.br/,23,UTF-8,1,0,461ee5292b9d,0,0
+1706534571243,51,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,351217,119,2,2,https://www.terra.com.br/,29,utf-8,1,0,461ee5292b9d,0,0
+1706534571073,276,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5368,117,2,2,https://www.sbt.com.br/,276,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534571349,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-2,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,1
+1706534571294,84,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990532,115,2,2,https://g1.globo.com/,22,UTF-8,1,0,461ee5292b9d,0,0
+1706534571379,279,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5380,117,2,2,https://www.sbt.com.br/,279,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534571658,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-1,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,1
+1706534571351,791,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,133930,119,2,2,https://www.linkedin.com/,321,utf-8,1,0,461ee5292b9d,0,0
+1706534572143,324,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,324,UTF-8,1,0,461ee5292b9d,0,0
+1706534571659,814,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,336,utf-8,1,0,461ee5292b9d,0,0
+1706534572475,22,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,22,UTF-8,1,0,461ee5292b9d,0,0
+1706534572497,2220,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2220
+1706534572468,2260,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2260
+1706534574718,127,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19873,120,2,2,https://www.google.com.br/,121,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534574729,122,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19937,120,2,2,https://www.google.com.br/,121,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534574847,172,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835254,117,2,2,https://www.uol.com.br/,42,UTF-8,1,0,461ee5292b9d,0,0
+1706534574852,173,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835254,117,2,2,https://www.uol.com.br/,22,UTF-8,1,0,461ee5292b9d,0,0
+1706534575020,77,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,351217,119,2,2,https://www.terra.com.br/,31,utf-8,1,0,461ee5292b9d,0,0
+1706534575026,84,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,351205,119,2,2,https://www.terra.com.br/,45,utf-8,1,0,461ee5292b9d,0,0
+1706534575098,140,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990833,115,2,2,https://g1.globo.com/,26,UTF-8,1,0,461ee5292b9d,0,0
+1706534575111,133,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990536,115,2,2,https://g1.globo.com/,24,UTF-8,1,0,461ee5292b9d,0,0
+1706534575239,282,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5375,117,2,2,https://www.sbt.com.br/,282,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534575246,283,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5367,117,2,2,https://www.sbt.com.br/,283,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534575530,59,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-2,text,false,,2292,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,59
+1706534575522,67,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br: Name or service not known,Thread Group 1-1,text,false,,2496,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,67
+1706534575589,578,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,134198,119,2,2,https://www.linkedin.com/,244,utf-8,1,0,461ee5292b9d,0,0
+1706534575590,577,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,234,utf-8,1,0,461ee5292b9d,0,0
+1706534576168,28,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,28,UTF-8,1,0,461ee5292b9d,0,0
+1706534576168,28,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,28,UTF-8,1,0,461ee5292b9d,0,0
+1706534576197,2510,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2510
+1706534576197,2510,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2510
+1706534578709,131,1 - GET - Google,200,OK,Thread Group 1-2,text,true,,19888,120,2,2,https://www.google.com.br/,126,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534578709,149,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19895,120,2,2,https://www.google.com.br/,147,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534578842,148,2 - GET - UOL,200,OK,Thread Group 1-2,text,true,,835068,117,2,2,https://www.uol.com.br/,27,UTF-8,1,0,461ee5292b9d,0,0
+1706534578859,146,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835076,117,2,2,https://www.uol.com.br/,40,UTF-8,1,0,461ee5292b9d,0,0
+1706534578993,92,3 - GET - Terra,200,OK,Thread Group 1-2,text,true,,351217,119,2,2,https://www.terra.com.br/,37,utf-8,1,0,461ee5292b9d,0,0
+1706534579007,86,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,351205,119,2,2,https://www.terra.com.br/,38,utf-8,1,0,461ee5292b9d,0,0
+1706534579086,206,4 - GET - g1,200,OK,Thread Group 1-2,text,true,,990536,115,2,2,https://g1.globo.com/,20,UTF-8,1,0,461ee5292b9d,0,0
+1706534579094,205,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990532,115,2,2,https://g1.globo.com/,25,UTF-8,1,0,461ee5292b9d,0,0
+1706534579294,284,5 - GET - sbt,200,OK,Thread Group 1-2,text,true,,5380,117,2,2,https://www.sbt.com.br/,284,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534579300,278,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5368,117,2,2,https://www.sbt.com.br/,278,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534579579,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-2,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534579579,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-1,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,0
+1706534579580,800,7 - GET - linkedin,200,OK,Thread Group 1-2,text,true,,133930,119,2,2,https://www.linkedin.com/,325,utf-8,1,0,461ee5292b9d,0,0
+1706534580385,22,8 - GET - duckduckgo,200,OK,Thread Group 1-2,text,true,,8944,117,2,2,https://duckduckgo.com/,22,UTF-8,1,0,461ee5292b9d,0,0
+1706534579580,910,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,334,utf-8,1,0,461ee5292b9d,0,0
+1706534580492,24,8 - GET - duckduckgo,200,OK,Thread Group 1-1,text,true,,8944,117,2,2,https://duckduckgo.com/,24,UTF-8,1,0,461ee5292b9d,0,0
+1706534580516,2152,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-1,text,false,,3124,0,2,2,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,2151
+1706534582668,261,1 - GET - Google,200,OK,Thread Group 1-1,text,true,,19898,120,2,2,https://www.google.com.br/,260,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534582930,74,2 - GET - UOL,200,OK,Thread Group 1-1,text,true,,835076,117,2,2,https://www.uol.com.br/,23,UTF-8,1,0,461ee5292b9d,0,0
+1706534583005,82,3 - GET - Terra,200,OK,Thread Group 1-1,text,true,,351217,119,2,2,https://www.terra.com.br/,58,utf-8,1,0,461ee5292b9d,0,0
+1706534583087,375,4 - GET - g1,200,OK,Thread Group 1-1,text,true,,990532,115,2,2,https://g1.globo.com/,299,UTF-8,1,0,461ee5292b9d,0,0
+1706534583464,275,5 - GET - sbt,200,OK,Thread Group 1-1,text,true,,5368,117,2,2,https://www.sbt.com.br/,274,ISO-8859-1,1,0,461ee5292b9d,0,0
+1706534583739,1,6 - GET - bing,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.bign.com.br,Thread Group 1-1,text,false,,2210,0,2,2,https://www.bign.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,1
+1706534583741,991,7 - GET - linkedin,200,OK,Thread Group 1-1,text,true,,133930,119,2,2,https://www.linkedin.com/,520,utf-8,1,0,461ee5292b9d,0,0
+1706534580407,8205,9 - GET - erro,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,Thread Group 1-2,text,false,,3124,0,1,1,https://www.erro.com.br/,0,ISO-8859-1,1,1,461ee5292b9d,0,8205
