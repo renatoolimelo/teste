@@ -99,7 +99,7 @@
             </elementProp>
             <elementProp name="influxdbToken" elementType="Argument">
               <stringProp name="Argument.name">influxdbToken</stringProp>
-              <stringProp name="Argument.value">zEtvs9Rcsjwgk7md63DFtyiVyTS9L-psXLTYKcqSividZF5CuxyshBxGK_RNbtrxAn-TfdVpeN6W7YU9_9Etgg==</stringProp>
+              <stringProp name="Argument.value">Oy2HcG9NSP72ewn2LBBA73kqnlvaOGXPaTSUZrrNaMLVFlaxL0kXzDAKJLVU2Y4GlrMpyxeC56PyRBwUvPLqig==</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="samplersList" elementType="Argument">
