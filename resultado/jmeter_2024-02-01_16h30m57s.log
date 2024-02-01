@@ -1,0 +1,82 @@
+2024-02-01 16:30:58,639 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2024-02-01 16:30:58,667 INFO o.a.j.JMeter: Loading user properties from: /opt/yaman/jmeter/apache-jmeter-5.5/bin/user.properties
+2024-02-01 16:30:58,668 INFO o.a.j.JMeter: Loading system properties from: /opt/yaman/jmeter/apache-jmeter-5.5/bin/system.properties
+2024-02-01 16:30:58,677 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2024-02-01 16:30:58,677 INFO o.a.j.JMeter: Version 5.5
+2024-02-01 16:30:58,677 INFO o.a.j.JMeter: java.version=11.0.18
+2024-02-01 16:30:58,677 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2024-02-01 16:30:58,677 INFO o.a.j.JMeter: os.name=Linux
+2024-02-01 16:30:58,677 INFO o.a.j.JMeter: os.arch=amd64
+2024-02-01 16:30:58,677 INFO o.a.j.JMeter: os.version=5.15.133.1-microsoft-standard-WSL2
+2024-02-01 16:30:58,677 INFO o.a.j.JMeter: file.encoding=ANSI_X3.4-1968
+2024-02-01 16:30:58,677 INFO o.a.j.JMeter: java.awt.headless=true
+2024-02-01 16:30:58,677 INFO o.a.j.JMeter: Max memory     =536870912
+2024-02-01 16:30:58,677 INFO o.a.j.JMeter: Available Processors =8
+2024-02-01 16:30:58,688 INFO o.a.j.JMeter: Default Locale=English (EN)
+2024-02-01 16:30:58,688 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2024-02-01 16:30:58,689 INFO o.a.j.JMeter: JMeterHome=/opt/yaman/jmeter/apache-jmeter-5.5
+2024-02-01 16:30:58,689 INFO o.a.j.JMeter: user.dir  =/opt/yaman/teste
+2024-02-01 16:30:58,689 INFO o.a.j.JMeter: PWD       =/opt/yaman/teste
+2024-02-01 16:30:58,690 INFO o.a.j.JMeter: IP: 172.18.0.4 Name: dbe2dd33ed4d FullName: dbe2dd33ed4d
+2024-02-01 16:30:58,712 INFO o.a.j.s.FileServer: Default base='/opt/yaman/teste'
+2024-02-01 16:30:58,713 INFO o.a.j.s.FileServer: Set new base='/opt/yaman/scripts'
+2024-02-01 16:30:58,962 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2024-02-01 16:30:58,988 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2024-02-01 16:30:58,991 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2024-02-01 16:30:58,995 INFO o.a.j.s.SaveService: Loading file: /opt/yaman/scripts/google.jmx
+2024-02-01 16:30:59,030 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2024-02-01 16:30:59,034 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2024-02-01 16:30:59,038 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2024-02-01 16:30:59,038 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2024-02-01 16:30:59,038 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2024-02-01 16:30:59,039 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2024-02-01 16:30:59,063 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-02-01 16:30:59,063 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-02-01 16:30:59,063 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-02-01 16:30:59,063 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-02-01 16:30:59,064 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2024-02-01 16:30:59,064 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2024-02-01 16:30:59,081 INFO o.a.j.JMeter: Creating summariser <summary>
+2024-02-01 16:30:59,104 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-02-01 16:30:59,105 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-02-01 16:30:59,106 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-02-01 16:30:59,135 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2024-02-01 16:30:59,136 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2024-02-01 16:30:59,567 INFO o.a.j.v.b.BackendListener: Backend Listener: Starting worker with class: class org.apache.jmeter.visualizers.backend.influxdb.InfluxdbBackendListenerClient and queue capacity: 5000
+2024-02-01 16:30:59,569 INFO o.a.j.v.b.BackendListener: Backend Listener: Started  worker with class: class org.apache.jmeter.visualizers.backend.influxdb.InfluxdbBackendListenerClient
+2024-02-01 16:31:00,026 INFO o.a.j.JMeter: Running test (1706815860026)
+2024-02-01 16:31:00,030 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2024-02-01 16:31:00,030 INFO o.a.j.e.StandardJMeterEngine: Starting 2 threads for group Thread Group.
+2024-02-01 16:31:00,031 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-02-01 16:31:00,031 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=2 ramp-up=30 delayedStart=false
+2024-02-01 16:31:00,043 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-02-01 16:31:00,044 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-02-01 16:31:00,055 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2024-02-01 16:31:00,089 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = dbe2dd33ed4d
+2024-02-01 16:31:00,098 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2024-02-01 16:31:00,192 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2024-02-01 16:31:00,198 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2024-02-01 16:31:00,198 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2024-02-01 16:31:00,210 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2024-02-01 16:31:00,212 INFO o.a.j.u.SSLManager: KeyStore created OK
+2024-02-01 16:31:00,213 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2024-02-01 16:31:01,018 INFO o.a.j.r.Summariser: summary +      1 in 00:00:01 =    1.0/s Avg:   843 Min:   843 Max:   843 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2024-02-01 16:31:15,045 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-2
+2024-02-01 16:31:30,820 INFO o.a.j.r.Summariser: summary +     79 in 00:00:30 =    2.7/s Avg:   558 Min:     0 Max:  2184 Err:    17 (21.52%) Active: 2 Started: 2 Finished: 0
+2024-02-01 16:31:30,821 INFO o.a.j.r.Summariser: summary =     80 in 00:00:31 =    2.6/s Avg:   562 Min:     0 Max:  2184 Err:    17 (21.25%)
+2024-02-01 16:32:01,158 INFO o.a.j.r.Summariser: summary +    108 in 00:00:30 =    3.6/s Avg:   554 Min:     0 Max:  2186 Err:    24 (22.22%) Active: 2 Started: 2 Finished: 0
+2024-02-01 16:32:01,158 INFO o.a.j.r.Summariser: summary =    188 in 00:01:01 =    3.1/s Avg:   557 Min:     0 Max:  2186 Err:    41 (21.81%)
+2024-02-01 16:32:30,406 INFO o.a.j.r.Summariser: summary +    135 in 00:00:29 =    4.6/s Avg:   443 Min:     0 Max:  2183 Err:    29 (21.48%) Active: 2 Started: 2 Finished: 0
+2024-02-01 16:32:30,407 INFO o.a.j.r.Summariser: summary =    323 in 00:01:30 =    3.6/s Avg:   510 Min:     0 Max:  2186 Err:    70 (21.67%)
+2024-02-01 16:33:00,171 INFO o.a.j.r.Summariser: summary +    134 in 00:00:30 =    4.5/s Avg:   441 Min:     0 Max:  2194 Err:    31 (23.13%) Active: 2 Started: 2 Finished: 0
+2024-02-01 16:33:00,171 INFO o.a.j.r.Summariser: summary =    457 in 00:02:00 =    3.8/s Avg:   489 Min:     0 Max:  2194 Err:   101 (22.10%)
+2024-02-01 16:33:00,171 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-1
+2024-02-01 16:33:00,171 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2024-02-01 16:33:00,414 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-2
+2024-02-01 16:33:00,415 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-2
+2024-02-01 16:33:00,418 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-02-01 16:33:00,420 INFO o.a.j.v.b.BackendListener: Worker ended
+2024-02-01 16:33:00,421 INFO o.a.j.v.b.i.InfluxdbBackendListenerClient: Sending last metrics to InfluxDB
+2024-02-01 16:33:00,425 INFO o.a.j.v.b.i.HttpMetricsSender: Destroying 
+2024-02-01 16:33:00,437 INFO o.a.j.r.Summariser: summary +      1 in 00:00:00 =    3.7/s Avg:   905 Min:   905 Max:   905 Err:     0 (0.00%) Active: 0 Started: 2 Finished: 2
+2024-02-01 16:33:00,438 INFO o.a.j.r.Summariser: summary =    458 in 00:02:00 =    3.8/s Avg:   490 Min:     0 Max:  2194 Err:   101 (22.05%)
