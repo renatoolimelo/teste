@@ -1,2 +1,5 @@
 jobs:
   - job: jmeter
+  pool:
+    vmImage: ubuntu-latest
+  displayName: Run Jmeter tests
